@@ -1,0 +1,229 @@
+[31-Mar-2023 19:34:36 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ozhang'@'localhost' (using password: YES) in /home3/heygabo1/public_html/micds-login/_db/db-config.php on line 10
+[31-Mar-2023 19:34:37 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ozhang'@'localhost' (using password: YES) in /home3/heygabo1/public_html/micds-login/_db/db-config.php on line 10
+[31-Mar-2023 19:35:13 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ozhang'@'localhost' (using password: YES) in /home3/heygabo1/public_html/micds-login/_db/db-config.php on line 10
+[31-Mar-2023 19:35:13 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ozhang'@'localhost' (using password: YES) in /home3/heygabo1/public_html/micds-login/_db/db-config.php on line 10
+[31-Mar-2023 19:35:13 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ozhang'@'localhost' (using password: YES) in /home3/heygabo1/public_html/micds-login/_db/db-config.php on line 10
+[31-Mar-2023 19:35:13 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'ozhang'@'localhost' (using password: YES) in /home3/heygabo1/public_html/micds-login/_db/db-config.php on line 10
+[31-Mar-2023 19:47:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home3/heygabo1/public_html/micds-login/api/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:47:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home3/heygabo1/public_html/micds-login/api/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:47:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home3/heygabo1/public_html/micds-login/api/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:47:46 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:48:00 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:48:01 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:48:02 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:49:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/heygabo1/public_html/micds-login/api/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:49:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/heygabo1/public_html/micds-login/api/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:49:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/heygabo1/public_html/micds-login/api/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:49:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/heygabo1/public_html/micds-login/api/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:49:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home3/heygabo1/public_html/micds-login/api/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/heygabo1/public_html/micds-login/api/login.php on line 10
+[31-Mar-2023 19:54:57 America/Boise] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in /home3/heygabo1/public_html/micds-login/api/login.php on line 12
+[31-Mar-2023 19:54:58 America/Boise] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in /home3/heygabo1/public_html/micds-login/api/login.php on line 12
+[01-Apr-2023 12:04:30 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/heygabo1/public_html/micds-login/api/login.php on line 20
+[01-Apr-2023 12:04:30 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/heygabo1/public_html/micds-login/api/login.php on line 33
+[01-Apr-2023 14:00:22 America/Boise] PHP Warning:  preg_match(): Empty regular expression in /home3/heygabo1/public_html/micds-login/api/register.php on line 41
+[01-Apr-2023 14:00:33 America/Boise] PHP Warning:  preg_match(): Empty regular expression in /home3/heygabo1/public_html/micds-login/api/register.php on line 41
+[01-Apr-2023 14:02:36 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/heygabo1/public_html/micds-login/api/register.php on line 71
+[01-Apr-2023 14:03:52 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/heygabo1/public_html/micds-login/api/register.php on line 71
+[01-Apr-2023 14:04:27 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/heygabo1/public_html/micds-login/api/register.php on line 71
+[01-Apr-2023 14:04:50 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/heygabo1/public_html/micds-login/api/register.php on line 71
+[01-Apr-2023 14:05:08 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/heygabo1/public_html/micds-login/api/register.php on line 71
+[01-Apr-2023 14:05:39 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/heygabo1/public_html/micds-login/api/register.php on line 71
+[01-Apr-2023 14:05:56 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/heygabo1/public_html/micds-login/api/register.php on line 71
+[01-Apr-2023 14:06:27 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/heygabo1/public_html/micds-login/api/register.php on line 71
+[01-Apr-2023 14:34:41 America/Boise] PHP Parse error:  syntax error, unexpected '}' in /home3/heygabo1/public_html/micds-login/api/login.php on line 23
+[01-Apr-2023 14:34:42 America/Boise] PHP Parse error:  syntax error, unexpected '}' in /home3/heygabo1/public_html/micds-login/api/login.php on line 23
+[09-Apr-2023 23:18:16 America/Boise] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home3/heygabo1/public_html/micds-login/api/register.php on line 3
+[09-Apr-2023 23:26:02 America/Boise] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home3/heygabo1/public_html/micds-login/api/register.php on line 3
+[10-Apr-2023 09:49:35 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 14:06:52 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 14:07:48 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 14:09:00 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 14:09:12 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 14:10:29 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 14:10:31 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 14:10:47 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 14:11:41 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 18:24:21 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 18:26:54 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 18:28:17 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 19:58:42 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[11-Apr-2023 19:58:54 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 17:53:40 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 17:53:50 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 17:58:45 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 17:59:32 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:01:10 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:09:16 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:11:38 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:11:42 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 16
+[13-Apr-2023 18:12:09 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:13:11 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:19:58 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:21:28 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:21:30 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:22:26 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:24:28 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:24:30 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:24:31 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:24:46 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:24:47 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:27:20 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:29:47 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:29:59 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:29:59 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:30:01 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:30:14 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:30:19 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:30:21 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:30:46 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:31:18 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:35:19 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:35:21 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:35:23 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:35:24 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:35:26 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:35:27 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:36:04 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:36:05 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:36:11 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:36:27 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:36:43 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:36:44 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:37:21 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:37:23 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:44:28 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:44:29 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:45:08 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:45:08 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:45:15 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:45:15 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:47:09 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:47:12 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:47:12 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:47:39 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:47:39 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:49:05 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:49:06 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:49:27 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:49:27 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:49:53 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:49:54 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:49:57 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:49:57 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:50:14 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:50:16 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:50:20 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:50:20 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[13-Apr-2023 18:50:44 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[13-Apr-2023 18:50:45 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[19-Apr-2023 13:27:12 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:27:14 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:27:15 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:27:21 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:27:22 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:27:28 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:27:29 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:27:36 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:28:17 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:28:19 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[19-Apr-2023 13:28:27 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[19-Apr-2023 13:28:44 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[19-Apr-2023 13:28:45 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[24-Apr-2023 17:20:05 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[24-Apr-2023 17:20:06 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[25-Apr-2023 22:12:08 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[25-Apr-2023 22:12:09 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[28-Apr-2023 08:12:41 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 08:12:43 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[28-Apr-2023 08:13:55 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 08:13:57 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[28-Apr-2023 08:16:30 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 08:16:31 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[28-Apr-2023 08:23:07 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 08:23:08 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 08:23:08 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 08:23:08 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 08:24:09 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 08:24:11 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[28-Apr-2023 09:39:16 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:39:18 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[28-Apr-2023 09:39:28 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:39:32 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:39:48 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:39:50 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[28-Apr-2023 09:41:08 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:41:15 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:41:39 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:41:40 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:41:41 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[28-Apr-2023 09:41:43 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:41:44 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:41:44 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:41:44 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:41:45 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:41:45 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:42:11 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:51 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:54 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:55 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:55 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:56 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:56 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:56 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:56 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:56 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:56 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:57 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:57 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:57 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:43:57 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:05 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:09 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:10 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:11 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:11 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:11 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:11 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:11 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:11 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:44 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:50 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:50 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:50 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:50 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:50 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:50 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:51 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:51 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:51 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:52 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:44:52 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:45:43 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:45:48 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:45:51 America/Boise] PHP Warning:  Creating default object from empty value in /home3/heygabo1/public_html/micds-login/api/user.php on line 18
+[28-Apr-2023 09:46:06 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
+[28-Apr-2023 09:46:08 America/Boise] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home3/heygabo1/public_html/micds-login/api/login.php on line 29
